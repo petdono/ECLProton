@@ -1,33 +1,12 @@
 <div align="center">
-<img src="https://i.imgur.com/brDN1wz.png" align="center" alt="Logo">
-<br>  
-<hr>
-  
-<a href="https://discord.gg/G33GhNs"> 
-  <img src="https://img.shields.io/discord/577167080412151859.svg?colorB=Blue&logo=discord&label=Support&style=for-the-badge" alt="Support">
-</a>
-<a href="https://github.com/bhopahk/launcher">
-    <img src="https://img.shields.io/github/languages/top/bhopahk/launcher.svg?colorB=f0db4f&style=for-the-badge" alt="Languages">
-</a>
-
-<br>
-
-<a href="https://github.com/bhopahk/launcher">
-    <img src="https://img.shields.io/github/package-json/v/bhopahk/launcher.svg?colorB=Orange&style=for-the-badge" alt="Version">
-</a>
-<a href="https://github.com/bhopahk/launcher/issues">
-    <img src="https://img.shields.io/github/issues/bhopahk/launcher.svg?style=for-the-badge&colorB=37f149" alt="Issues">
-</a>
-<a href="https://github.com/bhopahk/launcher/pulls">
-    <img src="https://img.shields.io/github/issues-pr/bhopahk/launcher.svg?style=for-the-badge&colorB=37f149" alt="Pull Request">
-</a>
-
+<h1>ElementCore Launcher</h1>
+ElementCore's launcher, based on Proton Launcher.
 </div>
 <hr>
 <br>
 
 ## Info 📍
-Proton Launcher is a Minecraft installer and launcher which was originally created to replace the Twitch app. It can install and manage Vanilla, Forge, Fabric profiles, install modpacks from CurseForge, and much more.
+ECLauncher is a hub for all of your ElementCore packs. It automatically installs Minecraft and our recommended version of Java to ensure complete compatibility with our packs.
 
 ---
 
